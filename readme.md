@@ -23,7 +23,6 @@ The following spaces are governed by the team:
 
 *   GitHub: [github.com/vfile](https://github.com/vfile)
 *   npm: [npmjs.com/~vfile](https://www.npmjs.com/org/vfile)
-*   Spectrum: [spectrum.chat/unified/vfile](https://spectrum.chat/unified/vfile)
 
 ## License
 
